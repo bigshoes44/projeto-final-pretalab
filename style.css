@@ -21,7 +21,7 @@ li {
     padding-bottom: 32px;
     padding-top: 32px;
     height: 60px;
-    background-color: #724796;
+    background-color: #474c96;
 }
 
 .header-menu nav {
@@ -68,7 +68,7 @@ li {
 
 .nome-completo {
     font-size: 36px;
-    color: #ff4dbc;
+    color: #474c96;
     font-weight: 700;
     height: 45px;
 }
@@ -93,7 +93,7 @@ li {
 
 .topico-principal {
     font-size: 36px;
-    color: #ff4dbc;
+    color: #474c96;
 }
 
 .lista-item {
@@ -120,7 +120,7 @@ li {
 }
 
 .rodape {
-    background-color: #724796;
+    background-color: #02072c;
     height: 300px;
     display: flex;
     align-items: center;
@@ -138,6 +138,7 @@ li {
     margin-right: 10px;
 }
 
-
-
-
+.blog {
+    font-size: 36px;
+    color: #474c96;
+}
